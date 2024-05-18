@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>test.txt</file>
+        <file>images.jfif</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,9 @@
+/home/goradef/Projects/TestHandlerOnQT/build/CMakeFiles/the_project_hw.dir
+/home/goradef/Projects/TestHandlerOnQT/build/CMakeFiles/edit_cache.dir
+/home/goradef/Projects/TestHandlerOnQT/build/CMakeFiles/rebuild_cache.dir
+/home/goradef/Projects/TestHandlerOnQT/build/CMakeFiles/list_install_components.dir
+/home/goradef/Projects/TestHandlerOnQT/build/CMakeFiles/install.dir
+/home/goradef/Projects/TestHandlerOnQT/build/CMakeFiles/install/local.dir
+/home/goradef/Projects/TestHandlerOnQT/build/CMakeFiles/install/strip.dir
+/home/goradef/Projects/TestHandlerOnQT/build/CMakeFiles/the_project_hw_autogen_timestamp_deps.dir
+/home/goradef/Projects/TestHandlerOnQT/build/CMakeFiles/the_project_hw_autogen.dir
